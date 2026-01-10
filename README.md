@@ -1,15 +1,54 @@
-# YZ-Tian.github.io
-# John Doe - Full Stack Developer
-📍 New York, USA | 📧 john.doe@example.com | 🔗 [LinkedIn](https://linkedin.com/in/johndoe) | 🌐 [Personal Blog](https://johndoe.github.io)
+# Curriculum Vitae: Yuzhuo Tian
 
-## 🛠️ Technical Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+## Basic Information
+- 🧑‍🔬 **Identity**: Undergraduate Student
+- 📧 **Email**: 1751224747@qq.com
+- 🏫 **Affiliation**: Soochow University, Suzhou Medical College, Department of Bioinformatics and Computational Biology
+- 📚 **Major**: Bioinformatics (Major) | Computer Science and Technology (Minor)
+- 📍 **Location**: Suzhou, China
 
-## 🚀 Projects
-### 1. E-Commerce Website
-- **Tech Stack**: React, Node.js, MongoDB, Express
-- **Description**: A full-stack e-commerce platform with user authentication, product management, and payment integration.
-- **Link**: [GitHub Repository](https://github.com/username/e-commerce)
+
+## Educational Background
+- **Soochow University** (2024 - 2028)
+  - 🎓 Bachelor of Science (Science Degree) in Bioinformatics (Major)
+  - 📖 Minor in Computer Science and Technology (Engineering Degree)
+  - Relevant Courses:
+    - 🧬 Bioinformatics: R Programming, Linux, Genomics Data Analysis(To Be Taken), Proteomics(To Be Taken), CADD((To Be Taken)
+    - 💻 Computer Science: Data Structure, Discrete Mathematics, Machine Learning(To Be Taken), Algorithm Design(To Be Taken)
+
+
+## Research Interests
+Integrating computational methods with biomedical data analysis:
+- 🧬 Bioinformatics & Computational Biology (genomics/proteomics data mining)
+- 🤖 Machine Learning / Graph Neural Network (for biological network modeling)
+- 🖼️ Computer Vision (for medical image segmentation)
+
+
+## Core Skills
+### Programming Languages
+- 💻 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white): Proficient (for data analysis, ML model development)
+- 💻 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white): Proficient (for statistical genetics, visualization)
+- 💻 HTML/CSS/JavaScript: To Be Learned (Next Semester) (for future biomedical tool web deployment)
+
+### Bioinformatics Tools ()
+- 🧬 Sequence Analysis: BLAST, Bowtie2, Samtools (To Be Learned, Planned)
+- 📊 Omics Data Processing: DESeq2, edgeR, PyMOL (protein structure visualization) (To Be Learned, Planned)
+
+### Computational Technologies
+- 🤖 Machine Learning: Scikit-learn, PyTorch (for GNN/CNN model building)
+- 🔧 Version Control: Git/GitHub (project management & code hosting)
+
+
+## Project Experience
+### 1. Deep-Learning-from-Scratch (2024.7)
+- 📝 **Description**: Implemented classic deep learning models (CNN, MLP) from scratch using NumPy/Python
+- 🐙 **Repository**: [Deep-Learning-from-Scratch](https://github.com/YZ-Tian/Deep-Learning-from-Scratch)
+
+### 2. AAU-TransUNet (2024.8 - 2024.10)
+- 📝 **Description**: Attention-connected and Adaptive Upsampling TransUNet for liver and liver-tumor segmentation
+- 🛠️ **Tech Stack**: Python, Pytorch
+- 📄 **Output**: Research manuscript (in submission preparation)
+
+
+## Passion
+Using computational methods to bridge bioinformatics and computer science, solving practical biomedical challenges.
