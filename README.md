@@ -14,7 +14,7 @@
   - 🎓 Bachelor of Science (Science Degree) in Bioinformatics (Major)
   - 📖 Minor in Computer Science and Technology (Engineering Degree)
   - Relevant Courses:
-    - 🧬 Bioinformatics: R Programming, Linux, Genomics Data Analysis(To Be Taken), Proteomics(To Be Taken), CADD((To Be Taken)
+    - 🧬 Bioinformatics: R Programming, Linux, Cell Biology , Biochemistry, CADD (To Be Taken)
     - 💻 Computer Science: Data Structure, Discrete Mathematics, Machine Learning(To Be Taken), Algorithm Design(To Be Taken)
 
 
@@ -41,7 +41,7 @@ Integrating computational methods with biomedical data analysis:
 
 ### Language Proficiency
 - ELTS (Academic): 7.5 (Overall), corresponding to CEFR Level C1
-Proficient in academic scenarios: capable of independent reading of English technical literature, writing scientific papers, and conducting cross-institutional academic communication.
+  Proficient in academic scenarios: capable of independent reading of English technical literature, writing scientific papers, and conducting cross-institutional academic communication.
 
 ## Project Experience
 ### 1. Deep-Learning-from-Scratch (2024.7)
