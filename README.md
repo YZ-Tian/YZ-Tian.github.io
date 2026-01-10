@@ -9,7 +9,7 @@
 
 
 ## Educational Background
-- **Soochow University** (2024 - 2028)
+- **Soochow University** (2024.09 - 2028.07)
   - 🎓 Bachelor of Science (Science Degree) in Bioinformatics (Major)
   - 📖 Minor in Computer Science and Technology (Engineering Degree)
   - Relevant Courses:
