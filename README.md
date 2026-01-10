@@ -9,6 +9,7 @@
 
 
 ## Educational Background
+- **Suzhou High School of Jiangsu Province** (2021.09 - 2024.07)
 - **Soochow University** (2024.09 - 2028.07)
   - 🎓 Bachelor of Science (Science Degree) in Bioinformatics (Major)
   - 📖 Minor in Computer Science and Technology (Engineering Degree)
@@ -38,6 +39,9 @@ Integrating computational methods with biomedical data analysis:
 - 🤖 Machine Learning: Scikit-learn, PyTorch (for GNN/CNN model building)
 - 🔧 Version Control: Git/GitHub (project management & code hosting)
 
+### Language Proficiency
+- ELTS (Academic): 7.5 (Overall), corresponding to CEFR Level C1
+Proficient in academic scenarios: capable of independent reading of English technical literature, writing scientific papers, and conducting cross-institutional academic communication.
 
 ## Project Experience
 ### 1. Deep-Learning-from-Scratch (2024.7)
