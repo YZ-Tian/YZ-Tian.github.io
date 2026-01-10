@@ -14,7 +14,7 @@
   - 🎓 Bachelor of Science (Science Degree) in Bioinformatics (Major)
   - 📖 Minor in Computer Science and Technology (Engineering Degree)
   - Relevant Courses:
-    - 🧬 Bioinformatics: R Programming, Linux, Cell Biology , Biochemistry, CADD (To Be Taken)
+    - 🧬 Bioinformatics: R Programming, Linux, Cell Biology, Biochemistry, Genetics
     - 💻 Computer Science: Data Structure, Discrete Mathematics, Machine Learning (To Be Taken), Algorithm Design (To Be Taken)
 
 
