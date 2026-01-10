@@ -2,7 +2,7 @@
 
 ## Basic Information
 - 🧑‍🔬 **Identity**: Undergraduate Student
-- 📧 **Email**: 1751224747@qq.com
+- 📧 **Email**: Iristian2006@outlook.com
 - 🏫 **Affiliation**: Soochow University, Suzhou Medical College, Department of Bioinformatics and Computational Biology
 - 📚 **Major**: Bioinformatics (Major) | Computer Science and Technology (Minor)
 - 📍 **Location**: Suzhou, China
@@ -15,7 +15,7 @@
   - 📖 Minor in Computer Science and Technology (Engineering Degree)
   - Relevant Courses:
     - 🧬 Bioinformatics: R Programming, Linux, Cell Biology , Biochemistry, CADD (To Be Taken)
-    - 💻 Computer Science: Data Structure, Discrete Mathematics, Machine Learning(To Be Taken), Algorithm Design(To Be Taken)
+    - 💻 Computer Science: Data Structure, Discrete Mathematics, Machine Learning (To Be Taken), Algorithm Design (To Be Taken)
 
 
 ## Research Interests
@@ -40,8 +40,8 @@ Integrating computational methods with biomedical data analysis:
 - 🔧 Version Control: Git/GitHub (project management & code hosting)
 
 ### Language Proficiency
-- ELTS (Academic): 7.5 (Overall), corresponding to CEFR Level C1
-  Proficient in academic scenarios: capable of independent reading of English technical literature, writing scientific papers, and conducting cross-institutional academic communication.
+- IELTS (Academic): 7.5 (Overall), corresponding to CEFR Level C1
+  - Proficient in academic scenarios: capable of independent reading of English technical literature, writing scientific papers, and conducting cross-institutional academic communication.
 
 ## Project Experience
 ### 1. Deep-Learning-from-Scratch (2024.7)
