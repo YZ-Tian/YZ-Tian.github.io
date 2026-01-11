@@ -44,11 +44,11 @@ Integrating computational methods with biomedical data analysis:
   - Proficient in academic scenarios: capable of independent reading of English technical literature, writing scientific papers, and conducting cross-institutional academic communication.
 
 ## Project Experience
-### 1. Deep-Learning-from-Scratch (2024.7)
+### 1. Deep-Learning-from-Scratch (2025.7)
 - 📝 **Description**: Implemented classic deep learning models (CNN, MLP) from scratch using NumPy/Python
 - 🐙 **Repository**: [Deep-Learning-from-Scratch](https://github.com/YZ-Tian/Deep-Learning-from-Scratch)
 
-### 2. AAU-TransUNet (2024.8 - 2024.10)
+### 2. AAU-TransUNet (2025.8 - 2025.10)
 - 📝 **Description**: Attention-connected and Adaptive Upsampling TransUNet for liver and liver-tumor segmentation
 - 🛠️ **Tech Stack**: Python, Pytorch
 - 📄 **Output**: Research manuscript (in submission preparation)
