@@ -1,4 +1,4 @@
-# Curriculum Vitae: Yuzhuo Tian
+# Curriculum Vitae
 
 ## Basic Information
 - 🧑‍🔬 **Identity**: Undergraduate Student
@@ -40,7 +40,7 @@ Integrating computational methods with biomedical data analysis:
 - 🔧 Version Control: Git/GitHub (project management & code hosting)
 
 ### Language Proficiency
-- IELTS (Academic): 7.5 (Overall), corresponding to CEFR Level C1
+- IELTS (Academic): 7.5 (Overall)
   - Proficient in academic scenarios: capable of independent reading of English technical literature, writing scientific papers, and conducting cross-institutional academic communication.
 
 ## Project Experience
@@ -52,6 +52,7 @@ Integrating computational methods with biomedical data analysis:
 - 📝 **Description**: Attention-connected and Adaptive Upsampling TransUNet for liver and liver-tumor segmentation
 - 🛠️ **Tech Stack**: Python, Pytorch
 - 📄 **Output**: Research manuscript (in submission preparation)
+- 🐙 **Repository**: [AAU-TransUNet](https://github.com/YZ-Tian/AAU-TransUNet)
 
 
 ## Passion
