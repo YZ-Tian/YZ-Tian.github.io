@@ -28,7 +28,7 @@ Integrating computational methods with biomedical data analysis:
 ## Core Skills
 ### Programming Languages
 - 💻 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white): Proficient (for data analysis, ML model development)
-- 💻 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white): Proficient (for statistical genetics, visualization)
+- 💻 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white): Proficient (for data visualization, including volcano plot and heatmap)
 - 💻 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black): To Be Learned (Next Semester) (for future biomedical tool web deployment)
 
 ### Bioinformatics Tools 
