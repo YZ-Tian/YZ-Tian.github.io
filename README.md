@@ -12,7 +12,10 @@
 - **Suzhou High School of Jiangsu Province** (2021.09 - 2024.07)
 - **Soochow University** (2024.09 - 2028.07)
   - 🎓 Bachelor of Science (Science Degree) in Bioinformatics (Major)
+      - Current GPA: 3.91/4 (after two semesters)
+      - Rank: 1/39
   - 📖 Minor in Computer Science and Technology (Engineering Degree)
+      - Current GPA: 3.6/4 (after first semester)
   - Relevant Courses:
     - 🧬 Bioinformatics: R Programming, Linux, Cell Biology, Biochemistry, Genetics
     - 💻 Computer Science: Data Structure, Discrete Mathematics, Machine Learning (To Be Taken), Algorithm Design (To Be Taken)
